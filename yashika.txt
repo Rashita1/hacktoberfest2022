@@ -1,3 +1,5 @@
 created a new file
 
-Added
+Added new
+
+Hello there!
